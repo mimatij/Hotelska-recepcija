@@ -1,4 +1,4 @@
-<h3>projektni zadatak kolegija Računarski praktikum 3</h3>
+<h3>Projektni zadatak kolegija Računarski praktikum 3:</h3>
 
 <h2>Hotelska recepcija </h2>
 <h4>(Mia Matijašević, Mia Tadić)</h4>
